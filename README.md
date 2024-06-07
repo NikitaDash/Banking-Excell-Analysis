@@ -79,4 +79,6 @@ Load Data: Ensure your loan dataset is loaded into the appropriate worksheet.
 Refresh Data: Click the "Refresh" button to update the dashboard with the latest data.
 Interact with Filters: Use slicers and filters to customize the data view based on your criteria.
 Explore Insights: Navigate through different sections to explore various analyses and insights.
-Reset View: Click the "Clear Filters" button to reset all filters and start a new an
+Reset View: Click the "Clear Filters" button to reset all filters and start a new analysis.
+
+
