@@ -69,7 +69,7 @@ Microsoft Excel 2019 or later.
 
 Basic knowledge of Excel functions, pivot tables, and charts.
 
-Installation
+### Installation
 
 Download the Excel file from the repository.
 
